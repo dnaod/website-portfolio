@@ -1,10 +1,13 @@
 [
   {
+      "grouping":"Leadership",
+      "skills":[ "Team Building & Retention", "Mentoring", "Career Development"]
+  },{
       "grouping":"Architecture",
       "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[ "C/C++", "C#/.NET", "Java","Python","git","subversion","linux","bash","javascript"]
   },
   {
       "grouping":"Platform Development & Administration",
