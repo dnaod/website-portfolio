@@ -1,0 +1,38 @@
+[
+    {
+        "role":"CTO / COO",
+        "company":"Tribe Property Technology / Tribe Property Management",
+        "summary":"At Tribe, we offer tech-elevated solutions for Building, Managing and Living in multi-family residential communities.\n Our solutions combine human interaction, access and data to support a sustainable future for our multi-family living environments.",
+        "range":"August 2021 - April 2024"
+    },
+    {
+        "role":"VP Engineering",
+        "company":"Lendesk",
+        "summary":"Lendesk enables mortgage professionals with a complete end to end digital mortgage solution, the best of its kind in the Canadian Mortgage industry.",
+        "range":"September 2018 - August 2021"
+    },
+    {
+        "role":"VP Engineering",
+        "company":"Paywith Worldwide",
+        "summary":"Paywith Worldwide enables banks, brands, enterprises and aspiring fintechs to create highly differentiated card programs designed to become the default card in a consumers mobile wallet.",
+        "range":"October 2017 - September 2018"
+    },
+    {
+        "role":"VP Research & Development",
+        "company":"INETCO Systems",
+        "summary":"Harness omni-channel payment data across the entire transaction journey in a single monitoring platform. Optimize operations, reduce payment transaction failures, speed up reporting cycles and forecasting by >75% with INETCO Insight.",
+        "range":"April 2014 - September 2017"
+    },
+    {
+        "role":"Director of Engineering",
+        "company":"Vivonet",
+        "summary":"Real-time, cloud-based point-of-sale systems for restaurants across the world.",
+        "range":"October 2012 - April 2014"
+    },
+    {
+        "role":"Manager - Software Configuration Management & Product Owner - Test Automation",
+        "company":"Rocket Gaming Systems",
+        "summary":"Casino Systems",
+        "range":"March 2003 - April 2014"
+    }
+]
