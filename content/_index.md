@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Experienced Technology Leader with a proven track-record of elevating teams, exceeding project goals, and big picture, long-term vision.
