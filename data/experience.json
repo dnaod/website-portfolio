@@ -34,5 +34,35 @@
         "company":"Rocket Gaming Systems",
         "summary":"Casino Systems",
         "range":"March 2003 - April 2014"
+    },
+    {
+        "role":"Software Development Manager",
+        "company":"Rocket Gaming Systems",
+        "summary":"Casino Systems",
+        "range":"March 2003 - April 2014"
+    },
+    {
+        "role":"Team Lead - Client Systems",
+        "company":"Rocket Gaming Systems",
+        "summary":"Casino Systems",
+        "range":"March 2003 - April 2014"
+    },
+    {
+        "role":"Software Developer",
+        "company":"Rocket Gaming Systems",
+        "summary":"Casino Systems",
+        "range":"March 2003 - April 2014"
+    },
+    {
+        "role":"Software Engineer",
+        "company":"Infowave Software",
+        "summary":"Mobile Enterprise Connectors",
+        "range":"May 2000 - June 2002"
+    },
+    {
+        "role":"Software Engineer - Space Robotics",
+        "company":"MacDonald Dettwiler and Associates (MDA)",
+        "summary":"Command and Control Software for the Canadarm 2 on the International Space Station.",
+        "range":"September 1998 - May 2000"
     }
 ]
