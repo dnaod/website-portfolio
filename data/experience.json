@@ -2,7 +2,7 @@
     {
         "role":"CTO / COO",
         "company":"Tribe Property Technology / Tribe Property Management",
-        "summary":"At Tribe, we offer tech-elevated solutions for Building, Managing and Living in multi-family residential communities.\n Our solutions combine human interaction, access and data to support a sustainable future for our multi-family living environments.",
+        "summary":"At Tribe, offers tech-elevated solutions for Building, Managing and Living in multi-family residential communities.\n Our solutions combine human interaction, access and data to support a sustainable future for our multi-family living environments.",
         "range":"August 2021 - April 2024"
     },
     {
@@ -16,6 +16,12 @@
         "company":"Paywith Worldwide",
         "summary":"Paywith Worldwide enables banks, brands, enterprises and aspiring fintechs to create highly differentiated card programs designed to become the default card in a consumers mobile wallet.",
         "range":"October 2017 - September 2018"
+    },
+    {
+        "role":"Owner",
+        "company":"Feeny Technology Solutions",
+        "summary":"Feeny Technology Solutoins was a boutique technology coaching and IT company I started as a teenager specializing in one-on-one technology consulting, guidance and support for individuals and small businesses.  In 2018, FTS shut down so that I could focus my off-time on my role at the Pacific Post Partum Support Society.",
+        "range":"September 1994 - 2018"
     },
     {
         "role":"VP Research & Development",
@@ -62,7 +68,7 @@
     {
         "role":"Software Engineer - Space Robotics",
         "company":"MacDonald Dettwiler and Associates (MDA)",
-        "summary":"Command and Control Software for the Canadarm 2 on the International Space Station.",
+        "summary":"Command and Control Software for the Canadarm 2 on the International Space Station.\n- Member of Space Station Project responsible for development of  Operation and Control Software for new Mobile Servicing System robotic arm currently being used on the International Space Station.\n- Successfully worked as a member of various groups including testing, integration, and development teams.\n- Comfortably interacted with Canadian Space Agency on numerous occasions which included reviews and acceptance tests.\n- Supervised a team of up to 3 engineers responsible for merging and integrating software changes into a final software release and created the process followed by that team.\n- Distributed work  to integration and merge members and reviewed progress, ensuring that tasks were done correctly and according to schedule.\n- Reviewed and rewrote documents pertaining to the validation and verification testing of product.\n\n Technologies: Ada83, Ada95, 6086 assembly, custom test script language, Unix, VAX",
         "range":"September 1998 - May 2000"
     }
 ]
