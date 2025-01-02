@@ -1,13 +1,22 @@
 ---
-title: "Professional Projects"
+title: Professional Projects
+date: 2020-01-07T16:49:15.046Z
+link: NA
+image: /img/marketplace-summary.webp
+description: NA
+tags:
+  - ''
+weight: 20
 sitemap:
-  priority : 0.9
+  priority: 0.5
+  weight: 0.5
 ---
 <!--
 
-This page represents the landing page for "projects" section. It is also shown under the homepage header for "projects". It should be therefore relatively short and sweet.
-
-IN the dfault theme, "projects" is divided among "Creations" you authored and "contributions" made to others projects.
+This page represents the landing page for "professional projects" section. It is also shown under the homepage header for "professional projects". It should be therefore relatively short and sweet.
 
 -->
-<p>This section contains professional projects <a href="/projects/creations">created</a> and <a href="/projects/contributions">contributed</a> to by Dan.  Some may be professional projects of note, some are personal projects, some are contributions to other organizations.  The distinction between creations and contributions is only my role as owner or contributor.</p>
+
+
+
+<p>A collection of efforts to which I contributed, but did not create. Contributing back to Open Source projects is a strong passion of mine, and requires a considerate approach to learn norms, standards and approach for each community for a successful merge!</p>
