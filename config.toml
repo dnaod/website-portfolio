@@ -1,5 +1,5 @@
 title = "Dan Feeny"
-baseURL = "https://example.com/"
+baseURL = "https://example.com"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -15,7 +15,7 @@ firstName = "Dan"
 lastName = "Feeny"
 phone = "+1-778-995-1692"
 profileImage = "img/celtic tree of life.jpg"
-# showQr = true
+showQr = true
 showContact = true
 showBoards  = true
 # showCertifications = true
