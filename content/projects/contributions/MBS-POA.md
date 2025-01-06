@@ -11,7 +11,7 @@ weight: 500
 sitemap:
   priority : 0.8
 ---
-**Needs Editing**
+**More detail on its way!**
 
 The Canada Arm 2 project was a robotic arm installed on the International Space Station.  It remains in operation today performing a variety of tasks from loading and unloading cargo modules to assisting extra vehicular activities by astronauts during station maintenance tasks.  MDA was responsible for the command and control software that drove the 3 major pieces of the arm: the Space Station Remote Manipulator System (SSRMS), Mobile Base System (MBS), and Special Purpose Dextrous Manipulator (SPDM but later renamed "Dextre").
 
