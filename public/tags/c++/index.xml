@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Dan Feeny</title>
+    <link>http://localhost:1313/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Dan Feeny</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2024 12:12:44 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 3 Gaming Server</title>
+      <link>http://localhost:1313/projects/contributions/class-3-gaming-server/</link>
+      <pubDate>Sat, 28 Dec 2024 12:12:44 -0800</pubDate>
+      <guid>http://localhost:1313/projects/contributions/class-3-gaming-server/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
