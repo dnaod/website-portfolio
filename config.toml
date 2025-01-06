@@ -1,6 +1,7 @@
 title = "Dan Feeny"
 # baseURL = "https://example.com"
-baseURL = "https://https://dnaod.github.io/website-portfolio/index.html"
+baseURL = "https://https://dnaod.github.com/website-portfolio"
+canonifyURLs = true
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
