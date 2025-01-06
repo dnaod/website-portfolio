@@ -1,5 +1,6 @@
 title = "Dan Feeny"
-baseURL = "https://example.com"
+# baseURL = "https://example.com"
+baseURL = "https://https://dnaod.github.io/website-portfolio/index.html"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
