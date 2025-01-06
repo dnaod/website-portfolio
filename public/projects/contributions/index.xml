@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Dan Feeny</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Dan Feeny</description>
+    <title>Professional Projects on Dan Feeny</title>
+    <link>http://localhost:1313/projects/contributions/</link>
+    <description>Recent content in Professional Projects on Dan Feeny</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2025 09:44:54 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Feeny Technology Solutions</title>
-      <link>http://localhost:1313/projects/creations/feeny-tech/</link>
-      <pubDate>Thu, 02 Jan 2025 14:47:43 -0800</pubDate>
-      <guid>http://localhost:1313/projects/creations/feeny-tech/</guid>
-      <description>Feeny Technology Solutions was a boutique technology coaching and IT company I started as a teenager specializing in one-on-one technology consulting, guidance and support for individuals and small businesses.&#xA;In 2018, FTS shut down so that I could focus my off-time on my role at the Pacific Post Partum Support Society.</description>
-    </item>
+    <lastBuildDate>Sat, 28 Dec 2024 12:13:36 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canada Arm 2&#39;s Mobile Base System Payload Orbital Accomodator</title>
       <link>http://localhost:1313/projects/contributions/mbs-poa/</link>
@@ -27,13 +20,6 @@
       <link>http://localhost:1313/projects/contributions/class-3-gaming-server/</link>
       <pubDate>Sat, 28 Dec 2024 12:12:44 -0800</pubDate>
       <guid>http://localhost:1313/projects/contributions/class-3-gaming-server/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dan Feeny</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Fri, 03 Jan 2025 09:44:54 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
   </channel>
