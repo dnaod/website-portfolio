@@ -1,5 +1,5 @@
 title = "Dan Feeny"
-baseURL = "https://dnaod.github.io/"
+baseURL = "https://example.com"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
