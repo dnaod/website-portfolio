@@ -2,10 +2,37 @@
     {
         "organization":"Pacific Post Partum Support Society",
         "logo":"img/pacific_post_partum_support_society_logo.jpeg",
-        "website":"https://postpartum.org",
+        "website":"https://postpartum.org/",
         "description":"A non-profit organization founded in 1971 that provides support for new parents and families working through the effects of postpartum anxiety, depression, and other symptoms.",
         "term_start":"2018-09-01",
         "term_end":"present",
         "role":"Board Director and IT Consultant"
+    },
+    {
+        "organization":"Cliff Avenue United FC",
+        "logo":"img/cliff-avenuefc.jpg",
+        "website":"https://web.archive.org/web/20221002054144/https://cliffavenuesoccer.com/",
+        "description":"Fun, Equality, Fairness and Fair Play",
+        "term_start":"",
+        "term_end":"",
+        "role":"Soccer Coach"
+    },
+    {
+        "organization":"Burnaby Girls Soccer Club",
+        "logo":"img/Burnaby-Girls-SC-1.jpg",
+        "website":"https://web.archive.org/web/20131019081258/http://burnabygirlssoccer.com/",
+        "description":"A Place for Every Girl to Play",
+        "term_start":"",
+        "term_end":"",
+        "role":"Soccer Coach"
+    },
+    {
+        "organization":"Vancouver Crisis Centre",
+        "logo":"img/CCBC_logo_positive_alt-1.jpg",
+        "website":"https://www.crisiscentre.bc.ca/",
+        "description":"Crisis Intervation and Suicide Prevention",
+        "term_start":"",
+        "term_end":"",
+        "role":"Volunteer"
     }
 ]
