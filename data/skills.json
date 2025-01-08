@@ -1,34 +1,47 @@
 [
   {
-      "grouping":"Leadership",
-      "skills":[ "Team Building & Retention", "Mentoring", "Career Development"]
-  },{
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
+      "grouping":"Strategic Leadership & Management",
+      "skills":[ "Team Building & Retention", "Mentoring", "Career Development & Performance Management", "Organizational Structures"]
+  },
+  {
+      "grouping":"Process & Project Excellence",
+      "skills":[ "PDLC/SDLC", "Project Management", "Change Management", "Agile/Lean (Scrum, Kanban, ShapeUp)", "Incident Management", "Software Licensing", "Atlassian"]
+  },
+  {
+      "grouping":"Architecture & Design",
+      "skills":[ "Domain-driven Design", "OOD/P", "Distributed archictecture", "Microservices", "RESTful APIs","SaaS/PaaS"]
+  },
+  {
+      "grouping":"Containers & Cloud",
+      "skills":[
+        {"name":"AWS","link":"https://aws.amazon.com"},
+        {"name":"Azure","link":"https://azure.microsoft.com"},
+        "NGINX",
+        {"name":"Docker","link":"https://docker.com"},
+        "Kubernetes (currently learning)",
+        "CyberSecurity Policy",
+        "Access Control",
+        "IP Networking",
+        "DNS",
+        "Firewalls",
+        "Load Balancing",
+        "IaC"]
+  },
+  {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "C/C++", "C#/.NET", "Java","Python","git","subversion","linux","bash","javascript"]
+      "skills":[ "C/C++", "C#/.NET", "Java / Spring", "Python", "HTML/CSS", "Ada93/95", "6086 assembly", "bash", "git", "linux", "Windows", "MacOS"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
-      "grouping":"Data Management",
+      "grouping":"Data Technologies",
       "skills":[
         {"name":"Microsoft SQL Server","icon":"msql_server"},
+        "Microsoft SSRS",
+        "PostgreSQL",
+        "mySQL/MariaDB",
         {"name":"Oracle","icon":"database"},
         "MongoDB",
-        {"name":"Apache Spark"}
-      ]
-  },
-  {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Azure","link":"https://azure.microsoft.com"}
+        "Clouera Hadoop"
       ]
   }
+
 ]
