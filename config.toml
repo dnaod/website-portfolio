@@ -12,7 +12,7 @@ enableGitInfo = false
 [params]
 address = "Vancouver, BC"
 email = "feeny.dan@gmail.com"
-# favicon = "/favicon.ico"
+# favicon = "img/celtic tree of life.jpg"
 firstName = "Dan"
 lastName = "Feeny"
 phone = "+1-778-995-1692"

@@ -10,6 +10,10 @@
     <lastmod>2020-01-07T16:49:15+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/projects/creations/icarol-sms/</loc>
+    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>http://localhost:1313/projects/creations/feeny-tech/</loc>
     <lastmod>2025-01-02T14:47:43-08:00</lastmod>
     <priority>0.8</priority>
@@ -22,16 +26,28 @@
     <lastmod>2024-12-28T12:12:44-08:00</lastmod>
     <priority>0.8</priority>
   </url><url>
+    <loc>http://localhost:1313/tags/in/</loc>
+    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/techtags/</loc>
+    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/used/</loc>
+    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/website/</loc>
+    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-01-03T09:44:54+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/it/</loc>
-    <lastmod>2025-01-02T14:47:43-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-01-02T14:47:43-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-02T14:47:43-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/6086-assembly/</loc>
