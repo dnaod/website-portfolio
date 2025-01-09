@@ -2,9 +2,9 @@
 title: "Rocket Builds"
 date: 2010-01-10
 featured: true
-description: "We created Rocket Gaming Systems first automated build system for 144 build targets and reduced the total build time from a week to just under 36 hours."
+description: "We created Rocket Gaming Systems first automated build and test system for 144 asset-heavy build targets and reduced the total build time from a week to under 36 hours."
 tags: ["Jenkins","Ant/Nant","distributed computing"]
-image: ""
+image: "/img/jenkins_logo.jpg"
 link: ""
 fact: "I don't think this property ever displays.  If a reader sees it, please let me know!"
 weight: 500
