@@ -1,17 +1,17 @@
 ---
 title: "A Casino-wide Multiplayer Class 3 Gaming Server for Slot Machines"
-date: 2024-12-28T12:12:44-08:00
+date: 2006-12-28
 featured: true
-description: "I buildt the first Class 3 gaming server certified for use in the U.S.A."
+description: "I built the first Class 3 gaming server certified for use in the U.S.A."
 tags: ["C++","Windows"]
-image: "img/rocket_gaming_systems.webp"
+image: "/img/rocket_gaming_systems.webp"
 link: ""
 fact: "The Bingo behind the One Armed Bandit"
 weight: 500
 sitemap:
   priority : 0.8
 ---
-**More detail on its way!**
+**More detail of the actual gaming server on its way!**
 
 Red Hawk Gaming was a company contracted by the Miami Tribe of Oklahoma owned Rocket Gaming Systems.  Rocket was an indigenous owned company that built casino games and systems sold and installed to casino operators throughout the U.S.  Red Hawk developed all the software for Rocket in its Vancouver office while hardware was developed in Rocket's Grove, Oklahoma office.
 
