@@ -2,7 +2,7 @@
 title: "Office Doc Attachments Display Service for Early Mobile Web Devices"
 date: 2002-01-08
 featured: true
-description: "This prototype service allowed users to forward email to a service that would email back a link where they could securtely view the contents on an early mobile web or WAP device."
+description: "This prototype service allowed users to forward email to a service that would email back a link where they could securely view the contents on an early mobile web or WAP device."
 tags: ["C++","Office OLE Automation","WAP","HTML"]
 image: "/img/WAPscreen.webp"
 link: ""
