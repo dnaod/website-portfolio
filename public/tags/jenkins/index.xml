@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jenkins on Dan Feeny</title>
+    <link>http://localhost:1313/tags/jenkins/</link>
+    <description>Recent content in Jenkins on Dan Feeny</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/jenkins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rocket Build</title>
+      <link>http://localhost:1313/projects/contributions/rocket-build/</link>
+      <pubDate>Sun, 10 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/contributions/rocket-build/</guid>
+      <description>At Rocket, I was asked to start a new Software Configuration Management team, picking or hiring the members, and strengthening our engineering practices. Growing the team to 4 members, we focused on the areas of build management, branch management, version management, and release management. Our achievements included:&#xA;Wrangling multiple branches of source code across multiple teams with varying feature sets into a single, organized set of branches representing our software lifecycle process stages.</description>
+    </item>
+  </channel>
+</rss>

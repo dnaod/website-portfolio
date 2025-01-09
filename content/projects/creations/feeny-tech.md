@@ -19,6 +19,7 @@ Respecting some of my residential customers' privacy, some of my customers inclu
 * Healthcare professionals
 * Resolutionary Electronic Systems
 * Effortless Electronics
+* West Coast Plasma Gallery (West Coast AV Gallery)
 * and more...
 
 In 2018, FTS shut down so that I could focus my off-time on my role at the Pacific Post Partum Support Society.
