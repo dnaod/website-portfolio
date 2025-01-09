@@ -11,7 +11,6 @@ weight: 500
 sitemap:
   priority : 0.8
 ---
-**More info on its way!**
 Feeny Technology Solutions was a boutique technology coaching and IT company I started as a teenager specializing in one-on-one technology consulting, guidance and support for individuals and small businesses.  I purposesly kept my client list small in order to provide a very dedicated, close relationship with my customers.  This also ensured the business did not distract from my day job as a software engineer and eventual technology leader.
 
 Respecting some of my residential customers' privacy, some of my customers included:

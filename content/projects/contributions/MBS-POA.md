@@ -1,10 +1,10 @@
 ---
 title: "Canada Arm 2's Mobile Base System Payload Orbital Accomodator"
-date: 2024-12-28T12:13:36-08:00
+date: 2001-12-28
 featured: true
-description: " Software controlling the Payload Orbital Accomodator on the Canada Arm 2's (SSRMS) Mobile Base System"
+description: "I wrote the software controlling the Payload Orbital Accomodator on the Canada Arm 2's (SSRMS) Mobile Base System"
 tags: ["Ada83/Ada95","Unix","6086 assembly"]
-image: "img/mcmbmt_hr.jpg"
+image: "/img/mcmbmt_hr.jpg"
 link: "https://www.asc-csa.gc.ca/eng/iss/mobile-base/"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 500
@@ -20,3 +20,5 @@ I had 3 roles during my tenure at MDA.  I first acted as a test member creating 
 I also debugged and validated the self-diagnostic assembly source code written.  I discovered a critical defect which would have corrupted the command and control software completely, leading to a complete shutdown of the arm operations.
 
 Lastly, I wrote the code for a subcomponent of the MBS called the Payload Orbital Accomodator (POA).  This was a docking port on the MBS where the SSRMS could attach payload modules.  Once a payload was attached to the POA, the Power Data Grapple Fixure (PDGF) would apply power and data to the payload for the collection of sensor data and application of heating - protecting the payload from the brutal space environment.
+
+![A picture of the Canada Arm 2 with a portion of Earth in the background](/img/CanadaArm2.jpg)
