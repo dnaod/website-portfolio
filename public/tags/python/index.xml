@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Dan Feeny</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Dan Feeny</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RaspberryPi-based IR Camera outputting a Timelapse video</title>
+      <link>http://localhost:1313/projects/creations/timelapse-picamera/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/creations/timelapse-picamera/</guid>
+      <description>More details coming.&#xA;But in the meantime, here&amp;rsquo;s a sample of a timelapse video created by this quick little project. Note that the purple hue is due to the IR camera designed to record foliage in low light conditions.</description>
+    </item>
+  </channel>
+</rss>
