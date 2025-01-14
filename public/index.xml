@@ -23,6 +23,20 @@
       <description>Feeny Technology Solutions was a boutique technology coaching and IT company I started as a teenager specializing in one-on-one technology consulting, guidance and support for individuals and small businesses. I purposesly kept my client list small in order to provide a very dedicated, close relationship with my customers. This also ensured the business did not distract from my day job as a software engineer and eventual technology leader.&#xA;Respecting some of my residential customers&amp;rsquo; privacy, some of my customers included:</description>
     </item>
     <item>
+      <title>RaspberryPi-based IR Camera outputting a Timelapse video</title>
+      <link>http://localhost:1313/projects/creations/timelapse-picamera/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/creations/timelapse-picamera/</guid>
+      <description>More details coming.&#xA;But in the meantime, here&amp;rsquo;s a sample of a timelapse video created by this quick little project. Note that the purple hue is due to the IR camera designed to record foliage in low light conditions.</description>
+    </item>
+    <item>
+      <title>Guildford Rewards Payment Gateway and Mobile Apps</title>
+      <link>http://localhost:1313/projects/contributions/guildford-rewards/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/contributions/guildford-rewards/</guid>
+      <description>More details on the way&#xA;I led the team responsible for developing Ivanhoe Cambridge&amp;rsquo;s new loyalty and gift card program. This consisted of payment gateway services, a rule-based payment and rewards engine, an accompanying desktop portal, and mobile apps for Android and iPhone.</description>
+    </item>
+    <item>
       <title>INETCO Analytics</title>
       <link>http://localhost:1313/projects/contributions/inetco-analytics/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>

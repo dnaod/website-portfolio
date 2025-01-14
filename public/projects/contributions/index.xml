@@ -6,8 +6,15 @@
     <description>Recent content in Professional Projects on Dan Feeny</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guildford Rewards Payment Gateway and Mobile Apps</title>
+      <link>http://localhost:1313/projects/contributions/guildford-rewards/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/contributions/guildford-rewards/</guid>
+      <description>More details on the way&#xA;I led the team responsible for developing Ivanhoe Cambridge&amp;rsquo;s new loyalty and gift card program. This consisted of payment gateway services, a rule-based payment and rewards engine, an accompanying desktop portal, and mobile apps for Android and iPhone.</description>
+    </item>
     <item>
       <title>INETCO Analytics</title>
       <link>http://localhost:1313/projects/contributions/inetco-analytics/</link>
