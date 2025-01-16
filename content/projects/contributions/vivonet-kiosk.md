@@ -17,4 +17,5 @@ https://hospitalitytech.com/vivonet-streamlines-pos-self-ordering-kiosk
 
 https://www.qsrweb.com/news/vivonet-kiosk-offers-self-order-solution-for-restaurants/
 
-![A marketing graphic of the Vivonet Kiosk](/img/Vivonet-POS.png)
+![An image of the Vivonet Kiosk](/img/Vivonet-Kiosk-2.png)
+![The Vivonet Kiosk UI](/img/Vivonet-Kiosk-UI.png)

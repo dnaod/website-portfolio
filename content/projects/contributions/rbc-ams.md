@@ -20,3 +20,5 @@ And so began a 7 month project for RBC in parallel with Lendesk's ongoing Lender
 User Acceptance tests began in late November with a successful outcome.  And in the new year, RBC went live with their new alternative mortgage platform.  On-time and on-budget.  Because of the success of this enterprise sized project, we were soon in discussions with CIBC for a similar solution.
 
 Today, Lendesk provides solutions to 4 of the 5 big banks in Canada, who are using their Digital Solutions for Financial Institutions.  And Lendesk now offers the leading "plug-and-play" digital mortgage experience for brokerages, big banks, and credit unions in Canada.
+
+![A capture of a portion of the epic breakdown stickies on a whiteboard for the RBC AMS project at Lendesk](/img/RBC-breakdown-workshop.jpg)
