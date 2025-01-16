@@ -14,3 +14,5 @@ sitemap:
 **More details on the way**
 
 I led the team responsible for developing Ivanhoe Cambridge's new loyalty and gift card program.  This consisted of payment gateway services, a rule-based payment and rewards engine, an accompanying desktop portal, and mobile apps for Android and iPhone.
+
+![A web browser, iPhone, and Android devices showing the Guildford Rewards interfaces](/img/Guildford-rewards-devices.png)
