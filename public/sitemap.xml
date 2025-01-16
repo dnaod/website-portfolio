@@ -22,6 +22,10 @@
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
+    <loc>http://localhost:1313/projects/contributions/rbc-ams/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>http://localhost:1313/projects/contributions/guildford-rewards/</loc>
     <lastmod>2018-01-13T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
@@ -89,6 +93,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/raspberrypi/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/aws/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/postgres/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ruby-/-rails/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hadoop/</loc>
     <lastmod>2017-07-11T00:00:00+00:00</lastmod>
