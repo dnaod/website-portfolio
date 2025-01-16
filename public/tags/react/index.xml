@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PostGRES on Dan Feeny</title>
-    <link>http://localhost:1313/tags/postgres/</link>
-    <description>Recent content in PostGRES on Dan Feeny</description>
+    <title>React on Dan Feeny</title>
+    <link>http://localhost:1313/tags/react/</link>
+    <description>Recent content in React on Dan Feeny</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/postgres/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RBC Alternate Mortgage System</title>
       <link>http://localhost:1313/projects/contributions/rbc-ams/</link>
