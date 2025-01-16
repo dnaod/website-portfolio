@@ -13,14 +13,14 @@
       <link>http://localhost:1313/projects/contributions/rbc-ams/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/contributions/rbc-ams/</guid>
-      <description>The success of our launch of Lendesk&amp;rsquo;s Lender Network, a platform that allows licensed mortgage brokerages to file applications directly to lenders, was proving to be attractive to mortgage brokers. We signed a SOW of work to provide RBC&amp;rsquo;s alternative lending division an integration with their traditional mortgage platform division&amp;rsquo;s LINK system. This integration automatically ingested mortgage applications from customers that were referred to RBC&amp;rsquo;s alternative mortgage specialists. Those specialists could then take advantage of Lendesk&amp;rsquo;s mortgage workflow platform and effortlessly submit those applications to Lendesk&amp;rsquo;s Lender Network, including Scotiabank, First National, CMLS, Equitable Bank, and the Paradigm Quest group of lenders.</description>
+      <description>The success of our launch of Lendesk&amp;rsquo;s Lender Network, a platform that allows licensed mortgage brokerages to file applications directly to lenders, was proving to be attractive to mortgage brokers. We signed a statement of work to provide RBC&amp;rsquo;s alternative lending division an integration with their traditional mortgage platform (LINK). This integration automatically ingested mortgage applications from customers that were referred to RBC&amp;rsquo;s alternative mortgage specialists. Those specialists could then take advantage of Lendesk&amp;rsquo;s mortgage workflow platform and effortlessly submit those applications to Lendesk&amp;rsquo;s Lender Network, including Scotiabank, First National, CMLS, Equitable Bank, and the Paradigm Quest group of lenders.</description>
     </item>
     <item>
       <title>Guildford Rewards Payment Gateway and Mobile Apps</title>
       <link>http://localhost:1313/projects/contributions/guildford-rewards/</link>
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/contributions/guildford-rewards/</guid>
-      <description>More details on the way&#xA;I led the team responsible for developing Ivanhoe Cambridge&amp;rsquo;s new loyalty and gift card program. This consisted of payment gateway services, a rule-based payment and rewards engine, an accompanying desktop portal, and mobile apps for Android and iPhone.</description>
+      <description>I led the team responsible for developing Ivanhoe Cambridge&amp;rsquo;s new loyalty and gift card program. This consisted of payment gateway services, a rule-based payment and rewards engine, an accompanying desktop portal, and mobile apps for Android and iPhone.&#xA;We added a number of new-to-Paywith features and platform enhancements for this project including:&#xA;A new simplified onboarding flow on the web and mobile apps An SMS-based sign-up flow Rewards campaigns - time-bound loyalty and rewards rules A set of new discounts and rebates rules requested by Ivanhoe Cambridge (owner of Guildford Towne Centre) Welcome gifts on sign-up A new rules-based offer engine service A new rules-based communication service The introduction of multi-factor authentication (SMS-based) </description>
     </item>
   </channel>
 </rss>
