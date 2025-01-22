@@ -97,10 +97,13 @@
     <loc>http://localhost:1313/tags/aws/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/postgres/</loc>
+    <loc>http://localhost:1313/tags/postgresql/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/react/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/redis/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ruby-/-rails/</loc>
@@ -118,7 +121,7 @@
     <loc>http://localhost:1313/tags/tableau/</loc>
     <lastmod>2017-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ipados/</loc>
+    <loc>http://localhost:1313/tags/ios-pre-ipados/</loc>
     <lastmod>2014-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/spring/</loc>

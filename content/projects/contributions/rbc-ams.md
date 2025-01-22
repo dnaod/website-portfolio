@@ -3,7 +3,7 @@ title: "RBC Alternate Mortgage System"
 date: 2019-05-15
 featured: true
 description: "We created a bespoke integration with RBC's internal systems (LINX) to be used by the Alternative Lending Team as their digital mortgage platform and lender gateway."
-tags: ["Ruby / Rails","React", "postGRES","AWS"]
+tags: ["Ruby / Rails","React", "postgreSQL", "Redis", "AWS"]
 image: "/img/RBC-Logo.png"
 link: "https://www.rbcroyalbank.com/en-ca/my-money-matters/goals-aspirations/buying-a-home/buying-your-first-home/what-is-alternative-lending-and-can-it-help-you/"
 fact: ""

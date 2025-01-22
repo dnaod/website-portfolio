@@ -3,7 +3,7 @@ title: "Vivonet Kiosk"
 date: 2014-01-11
 featured: true
 description: "In 3 months, we built a new self-serve Kiosk food ordering solution, integrated with Vivonet's cloud-based POS platform, and deployed to the Dallas Fort Worth Airport - one of the most frequently visited superhub airports in the world."
-tags: ["Java","Spring","iPadOS","Swift"]
+tags: ["Java","Spring","iOS (pre-iPadOS)","Swift"]
 image: "/img/Vivonet-POS.png"
 link: "https://www.youtube.com/watch?v=y_AqhwlBh70"
 fact: "In 3 months, we built a new self-serve Kiosk food ordering solution, integrated with Vivonet's cloud-based POS platform, and deployed to the Dallas Fort Worth Airport - one of the most frequently visited superhub airports in the world."
