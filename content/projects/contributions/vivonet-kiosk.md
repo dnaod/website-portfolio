@@ -3,7 +3,7 @@ title: "Vivonet Kiosk"
 date: 2014-01-11
 featured: true
 description: "In 3 months, we built a new self-serve Kiosk food ordering solution, integrated with Vivonet's cloud-based POS platform, and deployed to the Dallas Fort Worth Airport - one of the most frequently visited superhub airports in the world."
-tags: ["Java","Spring","iPadOS","Swift"]
+tags: ["Java","Spring","iOS (pre-iPadOS)","Swift"]
 image: "/img/Vivonet-POS.png"
 link: "https://www.youtube.com/watch?v=y_AqhwlBh70"
 fact: "In 3 months, we built a new self-serve Kiosk food ordering solution, integrated with Vivonet's cloud-based POS platform, and deployed to the Dallas Fort Worth Airport - one of the most frequently visited superhub airports in the world."
@@ -17,4 +17,5 @@ https://hospitalitytech.com/vivonet-streamlines-pos-self-ordering-kiosk
 
 https://www.qsrweb.com/news/vivonet-kiosk-offers-self-order-solution-for-restaurants/
 
-![A marketing graphic of the Vivonet Kiosk](/img/Vivonet-POS.png)
+![An image of the Vivonet Kiosk](/img/Vivonet-Kiosk-2.png)
+![The Vivonet Kiosk UI](/img/Vivonet-Kiosk-UI.png)
