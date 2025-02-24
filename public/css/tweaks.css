@@ -1,4 +1,3 @@
-
 @media (max-width: 768px) {
   /* makes googlebot happy with tap target spacing */
   a {
@@ -114,7 +113,7 @@ div.skills-heading{
 
 
 .resume-section blockquote {
-    border-left: 4px solid #BD5D38;
+    border-left: 4px solid #0047AB;
     padding-left: 1em;
 }
 

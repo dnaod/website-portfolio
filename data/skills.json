@@ -5,7 +5,7 @@
   },
   {
       "grouping":"Process & Project Excellence",
-      "skills":[ "PDLC/SDLC", "Project Management", "Change Management", "Agile/Lean (Scrum, Kanban, ShapeUp)", "Incident Management", "Software Licensing", "Atlassian"]
+      "skills":[ "PDLC/SDLC", "Project Management", "Change Management", "Agile/Lean (Scrum, Kanban, ShapeUp)", "Incident Management", "Software Licensing"]
   },
   {
       "grouping":"Architecture & Design",
@@ -29,7 +29,7 @@
   },
   {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "C/C++", "C#/.NET", "Java / Spring", "Python", "HTML/CSS", "Ada93/95", "6086 assembly", "bash", "git", "linux", "Windows", "MacOS"]
+      "skills":[ "C/C++", "C#/.NET", "Java / Spring", "Python", "HTML/CSS", "Ada93/95", "6086 assembly", "bash", "git", "linux", "Windows", "MacOS", "Atlassian"]
   },
   {
       "grouping":"Data Technologies",
@@ -40,7 +40,8 @@
         "mySQL/MariaDB",
         {"name":"Oracle","icon":"database"},
         "MongoDB",
-        "Cloudera Hadoop"
+        "Cloudera Hadoop",
+        "Impala"
       ]
   }
 
