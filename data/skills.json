@@ -9,7 +9,7 @@
   },
   {
       "grouping":"Architecture & Design",
-      "skills":[ "Domain-driven Design", "OOD/P", "Distributed archictecture", "Microservices", "RESTful APIs","SaaS/PaaS"]
+      "skills":[ "Domain-driven Design", "OOD/P", "Distributed Archictecture", "Microservices", "RESTful APIs","SaaS/PaaS"]
   },
   {
       "grouping":"Containers & Cloud",
@@ -40,7 +40,7 @@
         "mySQL/MariaDB",
         {"name":"Oracle","icon":"database"},
         "MongoDB",
-        "Clouera Hadoop"
+        "Cloudera Hadoop"
       ]
   }
 
