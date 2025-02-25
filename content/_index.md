@@ -9,7 +9,7 @@ outputs:
 - rss
 - json
 ---
-From Vision to Execution: Leading Technology with Purpose... and having fun doing it.
+From Vision to Execution: Leading Technology with Purpose and Curiousity... and having fun doing it.
 &nbsp;
 
 &nbsp;
