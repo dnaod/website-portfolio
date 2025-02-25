@@ -9,4 +9,7 @@ outputs:
 - rss
 - json
 ---
-Experienced Technology Leader with a proven track-record of elevating teams, exceeding project goals, and big picture, long-term vision.
+From Vision to Execution: Leading Technology with Purpose... and having fun doing it.
+&nbsp;
+
+&nbsp;
