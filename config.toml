@@ -17,12 +17,12 @@ firstName = "Dan"
 lastName = "Feeny"
 phone = "+1-778-995-1692"
 profileImage = "img/Dan-Feeny-PPPSS-mugshot.jpg"
-showQr = true
+showQr = false
 showContact = true
 showBoards  = true
 # showCertifications = true
 showSocializations = true
-sections = ["skills","contributions","creations","experience","education"]
+sections = ["skills","experience","contributions","creations","education"]
 
 
 [params.google]
@@ -37,6 +37,11 @@ trackerID = "G-9XP67LYKYK"
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/dnaod/"
+
+[[params.handles]]
+    name = "Bluesky"
+    link = "https://bsky.app/profile/danfeeny.bsky.social"
+    icon = "bluesky"
 
 [outputs]
 home = ["HTML", "JSON"]

@@ -11,8 +11,6 @@ weight: 500
 sitemap:
   priority : 0.8
 ---
-**More detail of the actual gaming server on its way!**
-
 Red Hawk Gaming was a company contracted by the Miami Tribe of Oklahoma owned Rocket Gaming Systems.  Rocket was an indigenous owned company that built casino games and systems sold and installed to casino operators throughout the U.S.  Red Hawk developed all the software for Rocket in its Vancouver office while hardware was developed in Rocket's Grove, Oklahoma office.
 
 I joined the team responsible for developing the C++ based server software.  At the time of joining, taxation laws for casino profits were in a state of flux and Red Hawk was creating a new style of gaming server based on a Bingo game behind the scenes but still presenting a user experience that matched the traditional slots game.  This "Class 3" gaming would have a more favourable tax structure ensuring more profits went to indigenous community development.
