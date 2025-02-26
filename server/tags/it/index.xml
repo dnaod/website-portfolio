@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT on Dan Feeny</title>
+    <link>https://example.com/tags/it/</link>
+    <description>Recent content in IT on Dan Feeny</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2025 14:47:43 -0800</lastBuildDate>
+    <atom:link href="https://example.com/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feeny Technology Solutions</title>
+      <link>https://example.com/projects/creations/feeny-tech/</link>
+      <pubDate>Thu, 02 Jan 2025 14:47:43 -0800</pubDate>
+      <guid>https://example.com/projects/creations/feeny-tech/</guid>
+      <description>Feeny Technology Solutions was a boutique technology coaching and IT company I started as a teenager specializing in one-on-one technology consulting, guidance and support for individuals and small businesses. I purposesly kept my client list small in order to provide a very dedicated, close relationship with my customers. This also ensured the business did not distract from my day job as a software engineer and eventual technology leader.&#xA;Respecting some of my residential customers&amp;rsquo; privacy, some of my customers included:</description>
+    </item>
+  </channel>
+</rss>
