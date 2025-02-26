@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6086 Assembly on Dan Feeny</title>
+    <link>https://example.com/tags/6086-assembly/</link>
+    <description>Recent content in 6086 Assembly on Dan Feeny</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Dec 2001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/6086-assembly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canada Arm 2&#39;s Mobile Base System Payload Orbital Accomodator</title>
+      <link>https://example.com/projects/contributions/mbs-poa/</link>
+      <pubDate>Fri, 28 Dec 2001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/contributions/mbs-poa/</guid>
+      <description>More detail on its way!&#xA;The Canada Arm 2 project was a robotic arm installed on the International Space Station. It remains in operation today performing a variety of tasks from loading and unloading cargo modules to assisting extra vehicular activities by astronauts during station maintenance tasks. MDA was responsible for the command and control software that drove the 3 major pieces of the arm: the Space Station Remote Manipulator System (SSRMS), Mobile Base System (MBS), and Special Purpose Dextrous Manipulator (SPDM but later renamed &amp;ldquo;Dextre&amp;rdquo;).</description>
+    </item>
+  </channel>
+</rss>

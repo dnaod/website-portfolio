@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WAP on Dan Feeny</title>
+    <link>https://example.com/tags/wap/</link>
+    <description>Recent content in WAP on Dan Feeny</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/wap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Office Doc Attachments Display Service for Early Mobile Web Devices</title>
+      <link>https://example.com/projects/contributions/msoffice-mobile-web/</link>
+      <pubDate>Tue, 08 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/contributions/msoffice-mobile-web/</guid>
+      <description>In 2000, mobile data technology was just beginning to sprout in the business world. Microsoft was working on Windows Mobile while Palm were the darling of keyboard warriors. Before desktop VPN standards had made the jump to mobile devices, Infowave was ahead of its time creating connectors that gave mobile devices access to companies&amp;rsquo; resources with their firewalls - extending applications previously only available while on-site to the mobile workers of the world.</description>
+    </item>
+  </channel>
+</rss>

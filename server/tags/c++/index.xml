@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Dan Feeny</title>
+    <link>https://example.com/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Dan Feeny</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INETCO Analytics</title>
+      <link>https://example.com/projects/contributions/inetco-analytics/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/contributions/inetco-analytics/</guid>
+      <description>INETCO Analytics was a green-field project using INETCO Insight&amp;rsquo;s firehose of real-time, financial transactional data to gain valuable and actionable insights to grow your business. Boeing Employee Credit Union (BECU) was one of the first customers to deploy this new product. This product helped Boeing:&#xA;Deliver an exceptional member experience through a deepened understanding of ATM usage and improved responsiveness — Achieved a 78.9% ATM Net Promoter Score and a 9.</description>
+    </item>
+    <item>
+      <title>A Casino-wide Multiplayer Class 3 Gaming Server for Slot Machines</title>
+      <link>https://example.com/projects/contributions/class-3-gaming-server/</link>
+      <pubDate>Thu, 28 Dec 2006 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/contributions/class-3-gaming-server/</guid>
+      <description>Red Hawk Gaming was a company contracted by the Miami Tribe of Oklahoma owned Rocket Gaming Systems. Rocket was an indigenous owned company that built casino games and systems sold and installed to casino operators throughout the U.S. Red Hawk developed all the software for Rocket in its Vancouver office while hardware was developed in Rocket&amp;rsquo;s Grove, Oklahoma office.&#xA;I joined the team responsible for developing the C++ based server software.</description>
+    </item>
+    <item>
+      <title>Office Doc Attachments Display Service for Early Mobile Web Devices</title>
+      <link>https://example.com/projects/contributions/msoffice-mobile-web/</link>
+      <pubDate>Tue, 08 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/contributions/msoffice-mobile-web/</guid>
+      <description>In 2000, mobile data technology was just beginning to sprout in the business world. Microsoft was working on Windows Mobile while Palm were the darling of keyboard warriors. Before desktop VPN standards had made the jump to mobile devices, Infowave was ahead of its time creating connectors that gave mobile devices access to companies&amp;rsquo; resources with their firewalls - extending applications previously only available while on-site to the mobile workers of the world.</description>
+    </item>
+  </channel>
+</rss>
