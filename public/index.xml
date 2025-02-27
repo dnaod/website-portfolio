@@ -30,6 +30,13 @@
       <description>More details coming.&#xA;But in the meantime, here&amp;rsquo;s a sample of a timelapse video created by this quick little project. Note that the purple hue is due to the IR camera designed to record foliage in low light conditions.</description>
     </item>
     <item>
+      <title>Guest Lecturer - Kwantlen Polytechnic University</title>
+      <link>http://localhost:1313/publications/kpu_lecture/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/kpu_lecture/</guid>
+      <description>I was a guest lecturer at Kwantlet Polytechnic University for the Technical Management and Services Program&amp;rsquo;s TMAS5110 - &amp;ldquo;Managing Technical Business Growth. I presented a lecture and discussion on &amp;ldquo;Leadership Styles&amp;rdquo; that I had originally created the Tribe Leadership Collaboration Group.&#xA;After the topic drew to a close, I invited the class to ask questions about the Tech Industry in general which led to some great discussions with potential future leaders of Vancouver Tech scene.</description>
+    </item>
+    <item>
       <title>RBC Alternate Mortgage System</title>
       <link>http://localhost:1313/projects/contributions/rbc-ams/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
@@ -70,6 +77,13 @@
       <pubDate>Thu, 28 Dec 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/contributions/class-3-gaming-server/</guid>
       <description>Red Hawk Gaming was a company contracted by the Miami Tribe of Oklahoma owned Rocket Gaming Systems. Rocket was an indigenous owned company that built casino games and systems sold and installed to casino operators throughout the U.S. Red Hawk developed all the software for Rocket in its Vancouver office while hardware was developed in Rocket&amp;rsquo;s Grove, Oklahoma office.&#xA;I joined the team responsible for developing the C++ based server software.</description>
+    </item>
+    <item>
+      <title>Guest Speaker for SFU&#39;s Object Technology Program</title>
+      <link>http://localhost:1313/publications/sfu_otp/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/sfu_otp/</guid>
+      <description>I was invited to represent Infowave&amp;rsquo;s partnership SFU&amp;rsquo;s Object Technology Program class of 2002. I spoke to the students of that year&amp;rsquo;s program in an auditorium about what they could expect day-to-day in a software engineering job and answered any questions they may have had. This partnership also provided another source of candidates for hiring in a difficult market.&#xA;I was also asked to review the curriculum and was able to provide feedback on missing elements - specifically SCM concepts: Source Control, Build Management, Version Management, and Configuration Management.</description>
     </item>
     <item>
       <title>Office Doc Attachments Display Service for Early Mobile Web Devices</title>
