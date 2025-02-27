@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Appearance on Dan Feeny</title>
+    <link>http://localhost:1313/tags/public-appearance/</link>
+    <description>Recent content in Public Appearance on Dan Feeny</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/public-appearance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guest Lecturer - Kwantlen Polytechnic University</title>
+      <link>http://localhost:1313/publications/kpu_lecture/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/kpu_lecture/</guid>
+      <description>I was a guest lecturer at Kwantlet Polytechnic University for the Technical Management and Services Program&amp;rsquo;s TMAS5110 - &amp;ldquo;Managing Technical Business Growth. I gave a talk on &amp;ldquo;Modes of Leadership&amp;rdquo; and then answered questions afterwards.</description>
+    </item>
+    <item>
+      <title>Guest Speaker for SFU&#39;s Object Technology Program</title>
+      <link>http://localhost:1313/publications/sfu_otp/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/sfu_otp/</guid>
+      <description>I was invited to represent Infowave&amp;rsquo;s partnership SFU&amp;rsquo;s Object Technology Program class of 2002. I spoke to the students of that year&amp;rsquo;s program in an auditorium about what they could expect day-to-day in a software engineering job and answered any questions they may have had. This partnership also provided another source of candidates for hiring in a difficult market.&#xA;I was also asked to review the curriculum and was able to provide feedback on missing elements - specifically SCM concepts: Source Control, Build Management, Version Management, and Configuration Management.</description>
+    </item>
+  </channel>
+</rss>
