@@ -14,20 +14,16 @@
     <lastmod>2020-01-07T16:49:15+00:00</lastmod>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/projects/creations/icarol-sms/</loc>
-    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>http://localhost:1313/projects/creations/feeny-tech/</loc>
-    <lastmod>2025-01-02T14:47:43-08:00</lastmod>
-    <priority>0.8</priority>
-  </url><url>
     <loc>http://localhost:1313/projects/creations/timelapse-picamera/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/publications/kpu_lecture/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/projects/creations/icarol-sms/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/projects/contributions/rbc-ams/</loc>
@@ -66,29 +62,12 @@
     <lastmod>2001-12-28T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/in/</loc>
-    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/techtags/</loc>
-    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/used/</loc>
-    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
-    <lastmod>2025-01-08T14:21:21-08:00</lastmod>
+    <loc>http://localhost:1313/projects/creations/feeny-tech/</loc>
+    <lastmod>1998-01-02T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-01-03T09:44:54+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/it/</loc>
-    <lastmod>2025-01-02T14:47:43-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-10T21:32:14-08:00</lastmod>
@@ -100,14 +79,32 @@
     <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/raspberrypi/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/public-appearance/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/in/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/techtags/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/used/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/website/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/aws/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
@@ -174,5 +171,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/unix/</loc>
     <lastmod>2001-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/it/</loc>
+    <lastmod>1998-01-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>

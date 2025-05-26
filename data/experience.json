@@ -1,5 +1,11 @@
 [
     {
+        "role":"Sr. Development Manager - Payments and Payroll Teams",
+        "company":"Jane App",
+        "summary":"Jane offers online booking, charting, scheduling, secure video and invoicing on one secure, beautifully designed system.\n\nRuby on Rails, React, AWS",
+        "range":"April 2025 - Current"
+    },
+    {
         "role":"CTO / COO",
         "company":"Tribe Property Technology / Tribe Property Management",
         "summary":"At Tribe, offers tech-elevated solutions for Building, Managing and Living in multi-family residential communities.\n Our solutions combine human interaction, access and data to support a sustainable future for our multi-family living environments.\n- Kickstarted product development roadmaps and on-time software delivery across three product families, restructuring the PDLC from Discovery to Delivery, and introducing data-driven decisioning and tooling to product feature prioritization.\n- Rebuilt a demoralized product engineering team fostering a culture of process excellence, enthusiasm, and collaboration, reorganizing and expanding to two stream-aligned teams (25 members) and doubling product development throughput over the first 1.5 years.\n- Directed all facets of service management teams encompassing Client Accounting, Strata/Condo Management, Rental Management, and Administration, leading a senior leadership team of 9 with management oversight of a 200-member workforce.\n- Provided technology due diligence on multiple property management company acquisitions, facilitating geographic expansion into new markets in the BC Interior and Greater Toronto Area.\n- Project leadership on a transformational consolidation of multiple accounting and database platforms onto Yardi, a best of breed property management platform, reducing $100K in software licensing costs and unlocking future important operational efficiencies (e.g. paperless Accounts Payable).\n- Revitalized our self-serve rental management platform bottom line, eliminating a $250K annual loss through pricing changes and streamlined operations, positioning it for future profitability and sale.\n\nC# .NET, Angular, React, SQL Server, MS Azure, , Node.js, React, MongoDB, AWS",

@@ -1,6 +1,6 @@
 ---
 title: "Feeny Technology Solutions"
-date: 2025-01-02T14:47:43-08:00
+date: 1998-01-02
 featured: true
 description: "A boutique technology coaching and IT services company I owned and operated."
 tags: ["IT"]
